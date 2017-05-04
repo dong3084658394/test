@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormClient", "FormClient\FormClient.csproj", "{BBB7ADA2-0878-429A-8BAB-57D18759B271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{4C2C21BE-A156-47E4-BCF6-34308DCCB36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogHelper", "LogHelper\LogHelper.csproj", "{EC5E4A01-0DB2-4156-A418-DE1591B58EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB7ADA2-0878-429A-8BAB-57D18759B271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB7ADA2-0878-429A-8BAB-57D18759B271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB7ADA2-0878-429A-8BAB-57D18759B271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB7ADA2-0878-429A-8BAB-57D18759B271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2C21BE-A156-47E4-BCF6-34308DCCB36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2C21BE-A156-47E4-BCF6-34308DCCB36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2C21BE-A156-47E4-BCF6-34308DCCB36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2C21BE-A156-47E4-BCF6-34308DCCB36C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5E4A01-0DB2-4156-A418-DE1591B58EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5E4A01-0DB2-4156-A418-DE1591B58EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5E4A01-0DB2-4156-A418-DE1591B58EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5E4A01-0DB2-4156-A418-DE1591B58EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

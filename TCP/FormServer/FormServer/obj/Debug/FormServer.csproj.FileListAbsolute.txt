@@ -1,0 +1,8 @@
+E:\李冬冬\测试\TCP\FormServer\FormServer\obj\Debug\FormServer.csprojResolveAssemblyReference.cache
+E:\李冬冬\测试\TCP\FormServer\FormServer\obj\Debug\FormServer.frm_server.resources
+E:\李冬冬\测试\TCP\FormServer\FormServer\obj\Debug\FormServer.Properties.Resources.resources
+E:\李冬冬\测试\TCP\FormServer\FormServer\obj\Debug\FormServer.csproj.GenerateResource.Cache
+E:\李冬冬\测试\TCP\FormServer\FormServer\bin\Debug\FormServer.exe
+E:\李冬冬\测试\TCP\FormServer\FormServer\bin\Debug\FormServer.pdb
+E:\李冬冬\测试\TCP\FormServer\FormServer\obj\Debug\FormServer.exe
+E:\李冬冬\测试\TCP\FormServer\FormServer\obj\Debug\FormServer.pdb

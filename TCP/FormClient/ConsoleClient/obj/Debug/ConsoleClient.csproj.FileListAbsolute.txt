@@ -1,0 +1,17 @@
+C:\Users\lidongdong\Desktop\FormClient\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\lidongdong\Desktop\FormClient\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\lidongdong\Desktop\FormClient\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\lidongdong\Desktop\FormClient\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\lidongdong\Desktop\FormClient\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\lidongdong\Desktop\FormClient\ConsoleClient\obj\Debug\ConsoleClient.pdb
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\obj\Debug\ConsoleClient.exe
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\obj\Debug\ConsoleClient.pdb
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\bin\Debug\ConsoleClient.exe
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\bin\Debug\ConsoleClient.pdb
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\bin\Debug\NLog.config
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\bin\Debug\LogHelper.dll
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\bin\Debug\NLog.dll
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\bin\Debug\LogHelper.pdb
+E:\李冬冬\测试\TCP\FormClient\ConsoleClient\bin\Debug\NLog.xml
